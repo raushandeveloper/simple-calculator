@@ -26,6 +26,10 @@
     cursor: pointer;
 }
 
+#DEL{
+    font-size: 22px;
+}
+
 .equale{
     width: 2rem;
 }
@@ -61,7 +65,7 @@ input{
     left: 31rem;
 }
 
-#arrow{
+#historyBtn{
     top: 8rem;
     left: 45rem;
     background-color: rgba(84, 125, 182, 0.638);
@@ -70,6 +74,5 @@ input{
     font-weight: bold;
     border-radius: 2rem;
 }
-
 
 
